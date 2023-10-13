@@ -1,0 +1,357 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2545,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAALAAAASGVsbG8gV29ybGQ",
+					"AQAAAAAAAAABAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAAwsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAEAAAAAAAAAAQAAAAAAAAAPCwAAPCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KCTxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KCTx0aXRsZT5FdGhhbiBIYW48L3RpdGxlPgoJPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJjc3Ncc3R5bGVzLmNzcyI+Cgk8bGluayByZWw9Imljb24iIHR5cGU9InRleHQvY3NzIiBocmVmPSJmYXZpY29uLmljbyI+Cgk8bGluayByZWw9InByZWNvbm5lY3QiIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20iPgoJPGxpbmsgcmVsPSJwcmVjb25uZWN0IiBocmVmPSJodHRwczovL2ZvbnRzLmdzdGF0aWMuY29tIiBjcm9zc29yaWdpbj4KCTxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9WkNPT0wrS3VhaUxlJmRpc3BsYXk9c3dhcCIgcmVsPSJzdHlsZXNoZWV0Ij4KCiAgPGxpbmsgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3MyP2ZhbWlseT1PcGVuK1NhbnM6d2dodEAzMDAmZGlzcGxheT1zd2FwIiByZWw9InN0eWxlc2hlZXQiPgoKPC9oZWFkPgoKPGJvZHk+CgkJPGRpdiBjbGFzcz0idG9wLWNvbnRhaW5lciI+CgkJCTxpbWcgY2xhc3M9InRvcC1jbG91ZCIgc3JjPSJpbWFnZXMvY2xvdWQucG5nIiBhbHQ9ImNsb3VkIj4KCQkJPGgxPkknbSBFdGhhbjwvaDE+CgkJCTxwIGNsYXNzPSJwcm9ncmFtbWVyIj5hIHByb2dyYW1tZXIuPC9wPgoJCQk8aW1nIGNsYXNzPSJib3R0b20tY2xvdWQiIHNyYz0iaW1hZ2VzL2Nsb3VkLnBuZyIgYWx0PSJjbG91ZCI+CgkJCTxpbWcgc3JjPSJpbWFnZXMvbW91bnRhaW4ucG5nIiBhbHQ9Im1vdW50YWluIj4KCQk8L2Rpdj4KCQkKCQk8ZGl2IGNsYXNzPSJtaWRkbGUtY29udGFpbmVyIj4KICA8ZGl2IGNsYXNzPSJwcm9maWxlIj4KICAgIDxpbWcgY2xhc3M9InBlcnNvbmFsLWljb24iIHNyYz0iaW1hZ2VzL0V0aGFuLnBuZyIgYWx0PSJwZXJzb25hbC1pY29uIj4KICAgIDxoMj5BYm91dCBNZTwvaDI+CiAgICA8cCBjbGFzcz0ic2VsZi1pbnRybyI+QSBtb3RpdmF0ZWQgaW5kaXZpZHVhbCB3aXRoIGluLWRlcHRoIGtub3dsZWRnZSBvZiBsYW5ndWFnZXMgYW5kIGRldmVsb3BtZW50IHRvb2xzLCBzZWVraW5nIGEgcG9zaXRpb24gaW4gYSBncm93dGgtb3JpZW50ZWQgY29tcGFueSB3aGVyZSBJIGNhbiB1c2UgbXkgc2tpbGxzIHRvIHRoZSBhZHZhbnRhZ2Ugb2YgdGhlIGNvbXBhbnkgd2hpbGUgaGF2aW5nIHRoZSBzY29wZSB0byBkZXZlbG9wIG15IG93biBza2lsbHMuPC9wPgogIDwvZGl2PgogIDxocj4KICA8ZGl2IGNsYXNzPSJza2lsbHMiPgogICAgPGgyPldoYXQgSSBBbSBHb29kIEF0LjwvaDI+CiAgICA8ZGl2IGNsYXNzPSJza2lsbC1yb3ciPgogICAgICA8aW1nIGNsYXNzPSJjb2RpbmciIHNyYz0iaHR0cHM6Ly9tZWRpYTIuZ2lwaHkuY29tL21lZGlhL01lSmdCM3lNTXdJYUhtS0Q0ei9naXBoeS5naWY/Y2lkPWVjZjA1ZTQ3cDZ5bDV6N3gyODU3aHQ3bmZtaXplMTZ4ZmgyYmJuOTRmY3B0OHFtYiZyaWQ9Z2lwaHkuZ2lmJmN0PWciIGFsdD0iaHVza3ktY29kaW5nIj4KICAgICAgPGgzPkRlc2lnbiAmIERldmVsb3BtZW508J+RqOKAjfCfkrs8L2gzPgogICAgICA8cCA+RGV2ZWxvcGVkIGEgZnVsbC1zdGFjayB3ZWIgYXBwbGljYXRpb24gdXNpbmcgRUpTLCBTUUwsIE5vZGUuanMsIGFuZCBFeHByZXNzLmpzLCBhbmQgYW4gQW5kcm9pZCBtb2JpbGUgYXBwbGljYXRpb24gd2l0aCBKYXZhIGFuZCBTUUxpdGUuPC9wPgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJza2lsbC1yb3ciPgogICAgICA8aW1nIGNsYXNzPSJ3b3Jrb3V0IiBzcmM9Imh0dHBzOi8vbWVkaWEwLmdpcGh5LmNvbS9tZWRpYS95RVlpU2NWNTNZZW84L2dpcGh5LndlYnA/Y2lkPWVjZjA1ZTQ3cXk0azdmcHlzbHQ2dW1ieTcyY2IxamxrZm95MDJxZWgzdDc2NjF6dSZyaWQ9Z2lwaHkud2VicCZjdD1nIiBhbHQ9IndvcmtvdXQiPgogICAgICA8aDM+Q29tbXVuaWNhdGlvbiAmIFRlYW13b3Jr8J+knTwvaDM+CiAgICAgIDxwIGNsYXNzPSJ3b3Jrb3V0LWRlc2NyaXB0aW9uIj5Xb3JrZWQgYXMgYSBNYWNoaW5lIExlYXJuaW5nIHJlc2VhcmNoIGFzc2lzdGFudCBhbmQgZGVwbG95ZWQgYSB0ZWFtIHByb2plY3Qgd2l0aCBlZmZpY2VuZXQgYW5kIGVmZmllY3RpdmUgY29sbGFib3JhdGlvbi4gPC9wPgogICAgPC9kaXY+CiAgPC9kaXY+CiAgPGhyPgogIDxkaXYgY2xhc3M9ImNvbnRhY3QtbWUiPgogICAgPGgyPkdldCBJbiBUb3VjaDwvaDI+CiAgICA8aDM+TG9vayBmb3J3YXJkIHRvIG1lZXRpbmcgeW91LjwvaDM+CiAgICA8cCBjbGFzcz0iY29udGFjdF9tZV9kZXNjcmlwdGlvbiI+SSB3b3VsZCBhcHByZWNpYXRlIGl0IHZlcnkgbXVjaCBpZiB5b3UgY291bGQgcHJvdmlkZSBhbnkgc3VnZ2VzdGlvbnMsIG9wcG9ydHVuaXRpZXMsIGFuZCBhbnkgb3RoZXIgaGVscC48L3A+CiAgICA8YSBjbGFzcz0iYnRuIiBocmVmPSJtYWlsdG86eWljaGVuaDA3MjJAZ21haWwuY29tIj5DT05UQUNUIE1FPC9hPgogIDwvZGl2Pgo8L2Rpdj4KCgo8ZGl2IGNsYXNzPSJib3R0b20tY29udGFpbmVyIj4KICA8YSBjbGFzcz0iZm9vdGVyLWxpbmsiIGhyZWY9Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi95aWNoZW4taGFuLyI+TGlua2VkSW48L2E+CiAgPGEgY2xhc3M9ImZvb3Rlci1saW5rIiBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL0V0aGFuSDA3MjIiPlR3aXR0ZXI8L2E+CiAgPGEgY2xhc3M9ImZvb3Rlci1saW5rIiBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vRXRoYW5IMDcyMiI+R2l0aHViPC9hPgogIDxwIGNsYXNzPSJmb290Ij7CqSAyMDIxIEV0aGFuIEhhbi4gPC9wPgo8L2Rpdj4KCjwvYm9keT4KPC9odG1sPgo",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAAECwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAA7AkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": ".html"
+					},
+					"BQAAAIAGAAAAAAAAgQYAAAAAAAAAAAAAgQYAAAAAAACCBgAAAAAAAAAAAACCBgAAAAAAAIMGAAAAAAAAAAAAAIMGAAAAAAAAhAYAAAAAAAAAAAAAhAYAAAAAAACFBgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAYAAAAAAACABgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "projects/index.html",
+			"settings":
+			{
+				"buffer_size": 3147,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAIAAAASGVscCBtZQo",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAASwwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					2,
+					"left_delete",
+					null,
+					"AgAAAD0GAAAAAAAAPQYAAAAAAAAOAAAAY2xhc3M9ImFjdGl2ZSI8BgAAAAAAADwGAAAAAAAAAQAAACA",
+					"AQAAAAAAAAABAAAAPQYAAAAAAABLBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAHIGAAAAAAAAcwYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcgYAAAAAAAByBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"paste",
+					null,
+					"AQAAAHMGAAAAAAAAgQYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwYAAAAAAABzBgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/queeniewong/queeniewongpc.github.io"
+	],
+	"file_history":
+	[
+		"/Users/queeniewong/.bash_profile",
+		"/Users/queeniewong/Desktop/personalwebsite.html",
+		"/Users/queeniewong/Desktop/Pui Ching_Wong_ma3.html",
+		"/Users/queeniewong/Desktop/grid.html",
+		"/Users/queeniewong/Desktop/Pui Ching_Wong_login_form.html",
+		"/Users/queeniewong/Desktop/name_card.html",
+		"/Users/queeniewong/Desktop/CS5610/puiching_wong_ma2.html",
+		"/Users/queeniewong/Desktop/puiching_wong_ma2.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1665,
+								1665
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 645.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "projects/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1665,
+								1665
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 656.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PersonalWebsite.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

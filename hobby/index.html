@@ -64,43 +64,61 @@
             max-width: 1200px;
             margin: 0 auto;
         }
+
+        #contact-info {
+        display: flex;
+        flex-direction: column;
+        max-width: 400px;
+        margin-top: 50px;
+        }
+
+        .contact-item {
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 1px solid #ccc;
+        padding: 10px 0;
+        }
+
+        .contact-type,
+        .contact-details {
+        flex-basis: 50%;
+        }
+
+        .left-image,
+        .right-image {
+            float: left;
+            margin: 10px;
+            width: 150px;
+            height: 200px;
+        }
+
+        .right-image {
+            float: right;
+        }
     </style>
 </head>
 <body>
     <header>
         <h1 class="name-header">Pui Ching Wong</h1>
-<!--         <nav>
+        <nav>
             <ul>
-
                 <li><a href="#homepage" class="active">Home</a></li>
-                <li><a href="#projects.html">Projects</a></li>
+                <li><a href="#projects">Projects</a></li>
                 <li><a href="#contact">Contact Me</a></li>
                 <li><a href="#hobby">My hobby</a></li>
             </ul>
-        </nav> -->
-        <nav>
-    <ul>
-        <li><a href="/" class="active">Home</a></li>
-        <li><a href="/projects/">Projects</a></li>
-        <li><a href="/contact/">Contact Me</a></li>
-        <li><a href="/hobby/">My hobby</a></li>
-    </ul>
         </nav>
-
     </header>
     <main>
-        <section id="homepage">
-          <div class="content">
-        <p>👋 Hi! I'm Pui Ching (Queenie), currently pursuing my Master's in Computer Science at Northeastern University. </p>
-        <p>
-            I'm proficient in a broad set of programming languages and tools including Java, Python, C++, C#, SQL, and front-end technologies such as HTML, CSS, JavaScript. 
-        </p>
-        <p>
-          I'm passionate about using my technical skills to make a meaningful impact. I'm highly collaborative, committed to excellence, and always excited about tackling new challenges in the tech field.
-        </p>
-          </div>
+        <section id="hobby">
+            <p> <strong> Embark on adventures with me through my hobbies - hiking and kayaking! </strong>
+            </p>
+             <img src="/Users/queeniewong/Downloads/pexels-james-wheeler-1578750.jpg" alt="Left Image" class="left-image">
+            <img src="/Users/queeniewong/Downloads/pexels-jonathan-lassen-2404667.jpg" alt="Right Image" class="right-image">
+            <p>
+                Diving into the heart of nature, my weekends often find me with hiking boots laced up or paddle in hand. There’s something profoundly freeing about tracing the contours of a mountain on foot or gliding through shimmering waters in a kayak. These aren’t just hobbies for me; they're windows to a world that constantly leaves me awestruck. Whether it's the thrill of reaching a peak or the calm of a secluded cove, I’m endlessly captivated. Here's a glimpse into my love for the wild. 🌿 #NatureBound
+            </p>
         </section>
     </main>
 </body>
 </html>
-
