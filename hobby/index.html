@@ -84,17 +84,21 @@
         flex-basis: 50%;
         }
 
-        .left-image,
-        .right-image {
-            float: left;
+        img {
+            float: right;
             margin: 10px;
-            width: 150px;
-            height: 200px;
+            max-width: 40%;
+            height: auto;
         }
 
-        .right-image {
-            float: right;
+        h2.section-heading-hiking {
+         color: green;
         }
+
+        h2.section-heading-kayaking {
+            color: blue;
+        }
+
     </style>
 </head>
 <body>
@@ -105,19 +109,26 @@
                 <li><a href="/">Home</a></li>
                 <li><a href="/projects/">Projects</a></li>
                 <li><a href="/contact/">Contact Me</a></li>
-                <li><a href="/hobby/" class="active">My Hobby</a></li>
+                <li><a href="/hobby/" class="active">My Hobbies</a></li>
             </ul>
         </nav>
     </header>
     <main>
         <section id="hobby">
-            <p> <strong> Embark on adventures with me through my hobbies - hiking and kayaking! </strong>
-            </p>
-             <img src="/Users/queeniewong/queeniewongpc.github.io/image/hiking.jpg" alt="Left Image" class="left-image">
-            <img src="image/kayak.jpg" alt="Right Image" class="right-image">
-            <p>
-                Diving into the heart of nature, my weekends often find me with hiking boots laced up or paddle in hand. There’s something profoundly freeing about tracing the contours of a mountain on foot or gliding through shimmering waters in a kayak. These aren’t just hobbies for me; they're windows to a world that constantly leaves me awestruck. Whether it's the thrill of reaching a peak or the calm of a secluded cove, I’m endlessly captivated. Here's a glimpse into my love for the wild. 🌿 #NatureBound
-            </p>
+            <h2 class="section-heading section-heading-hiking">Hiking</h2>
+            <div class="section-content">
+                <img src="image/hiking.jpg" alt="hiking Image">
+                <p>Embracing the Trails: The crunch of gravel under my boots, the tapestry of green enveloping me, and the exhilarating rush of reaching a new peak – hiking is not merely a hobby; it's a spiritual journey. Each trail weaves a unique story, narrating tales of ancient, towering trees and undulating paths that beckon one towards unseen vistas. My heart finds peace amidst the towering peaks and sprawling valleys, and with every step, the chaotic noise of the daily grind simply fades away, replaced by nature's soothing symphony. It's not just about the destination, but the myriad of emotions, reflections, and discoveries experienced with each step forward. Join me through the highs and lows, both on the trails and in life.</p>
+
+            </div>
+        </section>
+
+        <section id="hobby">
+            <h2 class="section-heading section-heading-kayaking">Kayaking</h2>
+            <div class="section-content">
+                <img src="image/kayak.jpg" alt="kayak Image">
+                <p>A Symphony on Water: My kayaking adventures reveal a different, but equally enchanting, dimension of nature. The gentle lapping of the waves against the kayak, the thrill of navigating through playful rapids, and the serenity found in hidden, aquatic enclaves provide a solace that's as boundless as the waters I explore. My paddle not only steers through physical realms but also through the tranquil waters within, offering a unique meditation that only the gentle embrace of the water can provide. Navigating through rivers, lakes, and coastal areas, the kayak becomes a vessel of endless exploration and aquatic tales. Step into my water-soaked journeys and let’s ride the waves of adventure together.</p>
+            </div>
         </section>
     </main>
 </body>
